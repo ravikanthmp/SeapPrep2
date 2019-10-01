@@ -1,0 +1,48 @@
+CONVERSIONS :
+
+lic static $conversionCallToActionArray = [
+    \FacebookAds\Object\Values\AdCreativeLinkDataCallToActionTypeValues::CONTACT_US,
+    \FacebookAds\Object\Values\AdCreativeLinkDataCallToActionTypeValues::DONATE_NOW,
+    \FacebookAds\Object\Values\AdCreativeLinkDataCallToActionTypeValues::DOWNLOAD,
+    \FacebookAds\Object\Values\AdCreativeLinkDataCallToActionTypeValues::LEARN_MORE,
+    \FacebookAds\Object\Values\AdCreativeLinkDataCallToActionTypeValues::SHOP_NOW,
+    \FacebookAds\Object\Values\AdCreativeLinkDataCallToActionTypeValues::SIGN_UP,
+    \FacebookAds\Object\Values\AdCreativeLinkDataCallToActionTypeValues::WATCH_MORE,
+    // https://newengen.atlassian.net/browse/FB-138
+    'APPLY_NOW',
+    \FacebookAds\Object\Values\AdCreativeLinkDataCallToActionTypeValues::BOOK_TRAVEL,
+    \FacebookAds\Object\Values\AdCreativeLinkDataCallToActionTypeValues::MESSAGE_PAGE,
+    'REQUEST_TIME',
+    'SEE_MENU',
+    // https://newengen.atlassian.net/browse/NEW-249
+    \FacebookAds\Object\Values\AdCreativeLinkDataCallToActionTypeValues::USE_MOBILE_APP,
+    \FacebookAds\Object\Values\AdCreativeLinkDataCallToActionTypeValues::SUBSCRIBE,
+    \FacebookAds\Object\Values\AdCreativeLinkDataCallToActionTypeValues::NO_BUTTON,
+
+public static $mobileAppCallToActionArray = [
+    \FacebookAds\Object\Values\AdCreativeLinkDataCallToActionTypeValues::INSTALL_MOBILE_APP,
+    \FacebookAds\Object\Values\AdCreativeLinkDataCallToActionTypeValues::USE_MOBILE_APP,
+];
+
+public static $productCatalogCallToActionArray = [
+    null, // no button
+    \FacebookAds\Object\Values\AdCreativeLinkDataCallToActionTypeValues::BOOK_TRAVEL,
+    \FacebookAds\Object\Values\AdCreativeLinkDataCallToActionTypeValues::DOWNLOAD,
+    \FacebookAds\Object\Values\AdCreativeLinkDataCallToActionTypeValues::LEARN_MORE,
+    \FacebookAds\Object\Values\AdCreativeLinkDataCallToActionTypeValues::OPEN_LINK,
+    \FacebookAds\Object\Values\AdCreativeLinkDataCallToActionTypeValues::SHOP_NOW,
+    \FacebookAds\Object\Values\AdCreativeLinkDataCallToActionTypeValues::SIGN_UP,
+    //\FacebookAds\Object\Values\AdCreativeLinkDataCallToActionTypeValues::NO_BUTTON
+    \FacebookAds\Object\Values\AdCreativeLinkDataCallToActionTypeValues::SUBSCRIBE,
+];
+
+public static $leadGenCallToActionArray = [
+    \FacebookAds\Object\Values\AdCreativeLinkDataCallToActionTypeValues::SUBSCRIBE,
+    \FacebookAds\Object\Values\AdCreativeLinkDataCallToActionTypeValues::SIGN_UP,
+    \FacebookAds\Object\Values\AdCreativeLinkDataCallToActionTypeValues::LEARN_MORE,
+    \FacebookAds\Object\Values\AdCreativeLinkDataCallToActionTypeValues::APPLY_NOW,
+    \FacebookAds\Object\Values\AdCreativeLinkDataCallToActionTypeValues::DOWNLOAD,
+    \FacebookAds\Object\Values\AdCreativeLinkDataCallToActionTypeValues::GET_QUOTE,
+];
+
+

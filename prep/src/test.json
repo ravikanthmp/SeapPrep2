@@ -1,0 +1,179 @@
+{
+  "age_max": 60,
+  "age_min": 20,
+  "excluded_custom_audiences": [
+    {
+      "id": "6033507080723",
+      "name": "Purchase (180 days)"
+    },
+    {
+      "id": "6048351947723",
+      "name": "Buyers-AllTime"
+    },
+    {
+      "id": "6052648096123",
+      "name": "All Visitors (last 180 days)"
+    },
+    {
+      "id": "6101263118323",
+      "name": "Style Plan - Alltime"
+    }
+  ],
+  "flexible_spec": [
+    {
+      "interests": [
+        {
+          "id": "1392913327680184",
+          "name": "Stitch Fix"
+        },
+        {
+          "id": "1658582481111366",
+          "name": "Sun Basket"
+        },
+        {
+          "id": "1770352833205114",
+          "name": "Freshly"
+        },
+        {
+          "id": "216058862079511",
+          "name": "Gwynnie Bee"
+        },
+        {
+          "id": "568826163269548",
+          "name": "HBO Now"
+        },
+        {
+          "id": "6002969794329",
+          "name": "Spotify"
+        },
+        {
+          "id": "6002987042720",
+          "name": "The Beauty Box"
+        },
+        {
+          "id": "6003057332644",
+          "name": "Five Four"
+        },
+        {
+          "id": "6003200539465",
+          "name": "Graze"
+        },
+        {
+          "id": "6003280714043",
+          "name": "FreshDirect"
+        },
+        {
+          "id": "6003285333297",
+          "name": "Good Food"
+        },
+        {
+          "id": "6003337722359",
+          "name": "FabFitFun"
+        },
+        {
+          "id": "6003338739187",
+          "name": "Trunk Club"
+        },
+        {
+          "id": "6003378723965",
+          "name": "Netflix"
+        },
+        {
+          "id": "6003398898963",
+          "name": "Home Chef"
+        },
+        {
+          "id": "6003483744798",
+          "name": "Hulu"
+        },
+        {
+          "id": "6003902631666",
+          "name": "AmazonFresh"
+        },
+        {
+          "id": "6005463824263",
+          "name": "Rent the Runway"
+        },
+        {
+          "id": "6008470701703",
+          "name": "Dollar Shave Club"
+        },
+        {
+          "id": "6010624953457",
+          "name": "Home Delivery"
+        },
+        {
+          "id": "6011835700833",
+          "name": "Blue Apron"
+        },
+        {
+          "id": "6011910193081",
+          "name": "BarkBox"
+        },
+        {
+          "id": "6012213028098",
+          "name": "ipsy"
+        },
+        {
+          "id": "6012367618363",
+          "name": "HelloFresh"
+        },
+        {
+          "id": "6012627153950",
+          "name": "PopSugar Must Have"
+        },
+        {
+          "id": "6013647687779",
+          "name": "Loot Crate"
+        },
+        {
+          "id": "6013731711213",
+          "name": "NatureBox"
+        },
+        {
+          "id": "6013785473961",
+          "name": "Birchbox Man"
+        },
+        {
+          "id": "6015798042628",
+          "name": "Birchbox"
+        },
+        {
+          "id": "6015878369863",
+          "name": "LE TOTE"
+        },
+        {
+          "id": "6017422791177",
+          "name": "Plated"
+        },
+        {
+          "id": "6018068072923",
+          "name": "Harry's"
+        },
+        {
+          "id": "6018885707020",
+          "name": "Bulu Box"
+        },
+        {
+          "id": "833523696734856",
+          "name": "MeUndies"
+        }
+      ]
+    }
+  ],
+  "genders": [
+    2
+  ],
+  "geo_locations": {
+    "countries": [
+      "CA"
+    ],
+    "location_types": [
+      "home"
+    ]
+  },
+  "locales": [
+    24,
+    6
+  ]
+}
